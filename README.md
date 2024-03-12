@@ -23,7 +23,6 @@
           <li>C# (İleri Düzey)</li>
           <li>Java (İleri Düzey)</li>
           <li>JavaScript (Orta Düzey)</li>
-          <li>WordPress (Orta Düzey)</li>
           <li>HTML (Temel Düzey)</li>
           <li>CSS (Temel Düzey)</li>
         </ul>
