@@ -1,10 +1,11 @@
 <!-- HEADER START -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/image?type=waving&color=0:000000,100:1a237e&height=220&section=header&text=Kağan%20Küçükçongar&fontSize=45&animation=fadeIn&fontColor=ffffff" width="100%" />
-</p>
+<br />
+<div align="center">
+  <h1>Kağan Küçükçongar</h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Researcher;Python+%E2%80%A2+C%23+%E2%80%A2+Java+Expert;UI%2FUX+%26+Motion+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +28,7 @@ By merging my technical engineering capabilities with multimedia and motion desi
 
 * 🏆 **TÜBİTAK 2204-A** Research Projects Competition – Regional 1st Place Winner.
 * 🏆 **TÜBİTAK 2204-A** Research Projects Competition – Regional 2nd Place Winner.
-* ⚡ **Core Focus Areas:** Artificial Intelligence (Machine Learning / Ensemble Learning), Network Security (IDS), Cyber Defense Systems, and Object-Oriented Programming (OOP).
+* ⚡ **Core Focus Areas:** Artificial Intelligence (Machine Learning / Ensemble Learning) and Object-Oriented Programming (OOP).
 
 ---
 
