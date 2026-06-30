@@ -40,13 +40,11 @@ By merging my technical engineering capabilities with multimedia and motion desi
 ## 📊 GitHub Analytics Lab
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.aggregate.vercel.app/api?username=KaganKucukcongar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaganKucukcongar&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaganKucukcongar&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+
 
 ---
 
