@@ -25,6 +25,7 @@ I am a passionate **Software Developer** dedicated to building dynamic, analytic
 
 By merging my technical engineering capabilities with multimedia and motion design experience in **Photoshop** and **After Effects**, I craft high-performance backend algorithms alongside aesthetically engaging user interfaces.
 
+* 🏆 **TÜBİTAK 2204-A** Research Projects Competition – Regional 1st Place Winner.
 * 🏆 **TÜBİTAK 2204-A** Research Projects Competition – Regional 2nd Place Winner.
 * ⚡ **Core Focus Areas:** Artificial Intelligence (Machine Learning / Ensemble Learning), Network Security (IDS), Cyber Defense Systems, and Object-Oriented Programming (OOP).
 
@@ -36,11 +37,11 @@ By merging my technical engineering capabilities with multimedia and motion desi
 
 | Language | Proficiency | Visual Progress |
 | :--- | :---: | :--- |
-| **Python** | `Advanced` | <img src="https://geps.dev/progress/95?dangerColor=red&warningColor=orange&successColor=39FF14" alt="Python Progress" width="120"/> |
-| **C#** | `Advanced` | <img src="https://geps.dev/progress/90?dangerColor=red&warningColor=orange&successColor=39FF14" alt="C# Progress" width="120"/> |
-| **Java** | `Advanced` | <img src="https://geps.dev/progress/85?dangerColor=red&warningColor=orange&successColor=39FF14" alt="Java Progress" width="120"/> |
-| **JavaScript**| `Intermediate` | <img src="https://geps.dev/progress/65?dangerColor=red&warningColor=orange&successColor=orange" alt="JS Progress" width="120"/> |
-| **HTML5 / CSS3** | `Basic` | <img src="https://geps.dev/progress/45?dangerColor=red&warningColor=orange&successColor=red" alt="HTML/CSS Progress" width="120"/> |
+| **Python** | `Advanced` | <img src="https://img.shields.io/badge/Progress-95%25-39FF14?style=flat-square&logoColor=white" alt="95%"/> |
+| **C#** | `Advanced` | <img src="https://img.shields.io/badge/Progress-90%25-39FF14?style=flat-square&logoColor=white" alt="90%"/> |
+| **Java** | `Advanced` | <img src="https://img.shields.io/badge/Progress-85%25-39FF14?style=flat-square&logoColor=white" alt="85%"/> |
+| **JavaScript**| `Intermediate` | <img src="https://img.shields.io/badge/Progress-65%25-orange?style=flat-square&logoColor=white" alt="65%"/> |
+| **HTML5 / CSS3** | `Basic` | <img src="https://img.shields.io/badge/Progress-45%25-red?style=flat-square&logoColor=white" alt="45%"/> |
 
 ### 🎨 Creative & Motion Design
 * **Adobe Photoshop** `[Graphic & UI/UX Element Design]`
