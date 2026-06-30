@@ -1,21 +1,8 @@
 <!-- HEADER START -->
-<br />
-<div align="center">
-  <h1>Kağan Küçükçongar</h1>
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/KaganKucukcongar">
-    <img src="https://img.shields.io/github/followers/KaganKucukcongar?label=Followers&style=for-the-badge&color=007acc&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="mailto:kucukcongarkagan@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-orange?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</p>
 <!-- HEADER END -->
 
 ---
@@ -66,5 +53,14 @@ By merging my technical engineering capabilities with multimedia and motion desi
 <!-- FOOTER START -->
 <p align="center">
   <sub>© 2026 • Designed with 💻 by <a href="https://github.com/KaganKucukcongar">Kağan Küçükçongar</a></sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KaganKucukcongar">
+    <img src="https://img.shields.io/github/followers/KaganKucukcongar?label=Followers&style=for-the-badge&color=007acc&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="mailto:kucukcongarkagan@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-orange?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 <!-- FOOTER END -->
