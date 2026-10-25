@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Kağan Küçükçongar — software, AI and learning by building</title>
+  <desc id="desc">An ink-blue profile cover with warm amber details and an illustrated desk beside a rainy window.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#16232a"/>
+      <stop offset="1" stop-color="#10171b"/>
+    </linearGradient>
+    <radialGradient id="warmth" cx="87%" cy="42%" r="54%">
+      <stop stop-color="#c8924d" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#c8924d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#122532"/>
+      <stop offset="1" stop-color="#1c3442"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#e7c799" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#e7c799" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="window"><rect x="965" y="56" width="202" height="143" rx="5"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1278" height="398" rx="18" fill="url(#background)" stroke="#2c393f"/>
+  <rect x="1" y="1" width="1278" height="398" rx="18" fill="url(#warmth)"/>
+  <g font-family="'Segoe UI', Arial, sans-serif">
+    <path d="M59 46v19" stroke="#e7c799" stroke-width="4" stroke-linecap="round"/>
+    <text x="77" y="61" fill="#b8c4c9" font-size="13" font-weight="700" letter-spacing="2.3">SOFTWARE / AI / CURIOSITY</text>
+    <g fill="#f1ede3" font-size="76" font-weight="750" letter-spacing="-2.8">
+      <text x="55" y="154">Kağan</text>
+      <text x="55" y="234">Küçükçongar</text>
+    </g>
+    <text x="59" y="282" fill="#e7c799" font-size="23" font-weight="600" letter-spacing="-.4">Learning by building.</text>
+    <path d="M59 316h629" stroke="#33434a"/>
+    <text x="59" y="353" fill="#a8b8bf" font-size="15" font-weight="600" letter-spacing=".6">COMPUTER ENGINEERING STUDENT</text>
+    <circle cx="382" cy="348" r="2" fill="#e7c799"/>
+    <text x="398" y="353" fill="#a8b8bf" font-size="15" font-weight="600" letter-spacing=".6">TÜRKİYE</text>
+  </g>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <rect x="954" y="45" width="224" height="165" rx="9" fill="#10191f" stroke="#42535b" stroke-width="2"/>
+    <rect x="965" y="56" width="202" height="143" rx="5" fill="url(#sky)"/>
+    <g clip-path="url(#window)">
+      <g fill="#243e4c">
+        <path d="M966 200v-40h22v-19h13v59m7 0v-57h26v-17h17v74m9 0v-44h25v-30h15v74m7 0v-53h26v-13h14v66m7 0v-46h23v46"/>
+      </g>
+      <g fill="#cfa66e" opacity=".6">
+        <path d="M976 170h4v7h-4zm45-16h4v7h-4zm14 25h4v7h-4zm34-12h4v7h-4zm48-7h4v7h-4zm20 18h4v7h-4z"/>
+      </g>
+      <g stroke="#8ab3ca" opacity=".29">
+        <path d="m987 72-5 17m36-23-5 17m47-20-5 17m39-4-5 17m46-25-5 17m-149 23-5 17m39-13-5 17m44-19-5 17m39-14-5 17m43-23-5 17m-113 25-5 17m40-13-5 17m42-11-5 17m37-10-5 17"/>
+      </g>
+    </g>
+    <path d="M1066 54v145M964 127h203" stroke="#42535b" stroke-width="4"/>
+    <path d="M816 306h403" stroke="#857054" stroke-width="3"/>
+    <path d="m1060 227-52 76h151l-48-76" fill="url(#light)" stroke="none"/>
+    <path d="M1134 306V188l-34-21" fill="none" stroke="#9c815b" stroke-width="3"/>
+    <path d="m1086 165-33 50q29 21 63 5l-15-53z" fill="#33403e" stroke="#c2a16d" stroke-width="2"/>
+    <path d="M1053 215q30 20 63 5" fill="none" stroke="#edcd94" stroke-width="4"/>
+    <path d="M1116 306h36" stroke="#c2a16d" stroke-width="3"/>
+    <g transform="rotate(-4 929 239)">
+      <rect x="836" y="177" width="187" height="113" rx="7" fill="#101a20" stroke="#5c737e" stroke-width="2"/>
+      <rect x="846" y="187" width="167" height="92" rx="3" fill="#1a2d37"/>
+      <path d="M862 205h45m-45 14h79m-67 14h50m-50 14h88m-100 14h58" stroke="#8ba4b0" stroke-width="3" opacity=".5"/>
+      <path d="M947 205h29m-31 28h29m-42 28h39" stroke="#dfbc86" stroke-width="3" opacity=".8"/>
+    </g>
+    <path d="M929 293v11m-24 1h49" stroke="#5c737e" stroke-width="3"/>
+    <path d="M849 314h159l13 13H836z" fill="#1d2c32" stroke="#43565e" stroke-width="1.5"/>
+    <path d="M1053 273h31v23q-15 13-31 0z" fill="#3b4944" stroke="#9b9c7b" stroke-width="1.5"/>
+    <path d="M1085 277h6q9 10-6 14" fill="none" stroke="#9b9c7b" stroke-width="2"/>
+    <path d="M1175 281h30l-5 24h-20z" fill="#5b5140" stroke="#8a7859" stroke-width="1.5"/>
+    <path d="M1190 280v-36m0 18q-25-3-20-20 22-1 20 20m0 7q24-6 21-22-23-2-21 22" fill="#374b39" stroke="#6e8358" stroke-width="1.5"/>
+  </g>
+  <g font-family="'Segoe UI', Arial, sans-serif" fill="#f1ede3" font-size="12" font-weight="700" letter-spacing="1.8">
+    <circle cx="1056" cy="351" r="4" fill="#fff"/>
+    <text x="1073" y="355">STEP INSIDE ↗</text>
+  </g>
+</svg>
