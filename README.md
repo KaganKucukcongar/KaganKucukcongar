@@ -1,17 +1,66 @@
-<a href="https://kagankucukcongar.github.io/">
-  <img src="./assets/profile-header.svg" alt="Kağan Küçükçongar — software, AI and learning by building" width="100%">
-</a>
+<!-- Local SVG artwork. Each linked panel remains a native link; narrow screens receive a separate readable composition. -->
 
-<p align="center">
-  <strong>Computer Engineering student at Sivas Cumhuriyet University.</strong><br>
-  Exploring software and AI, one project at a time.
+<p>
+  <a href="https://kagankucukcongar.github.io/">
+  <picture>
+    <source media="(max-width: 767px)" srcset="./assets/profile-header-mobile.svg">
+    <img src="./assets/profile-header.svg" alt="Kağan Küçükçongar — Computer Engineering student in Türkiye. Learning by building. Explore my portfolio." width="100%">
+  </picture>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://kagankucukcongar.github.io/"><strong>Explore my room ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:kucukcongarkagan@gmail.com">Get in touch ↗</a>
+<p>
+  <picture>
+    <source media="(max-width: 767px)" srcset="./assets/profile-about-mobile.svg">
+    <img src="./assets/profile-about.svg" alt="About Kağan: Computer Engineering student at Sivas Cumhuriyet University, based in Türkiye. Exploring software development, object-oriented programming and applied AI through projects." width="100%">
+  </picture>
 </p>
+
+<p>
+  <a href="https://kagankucukcongar.github.io/#proje-bor">
+  <picture>
+    <source media="(max-width: 767px)" srcset="./assets/profile-bor-mobile.svg">
+    <img src="./assets/profile-bor.svg" alt="BOR — a Turkish programming language project for middle school students. TÜBİTAK Kayseri Bölge Birinciliği. Read the case study." width="100%">
+  </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://kagankucukcongar.github.io/#proje-ai-ids">
+  <picture>
+    <source media="(max-width: 767px)" srcset="./assets/profile-ids-mobile.svg">
+    <img src="./assets/profile-ids.svg" alt="AI-Powered IDS — exploring AI for suspicious security activity. TÜBİTAK Kayseri Bölge İkinciliği. Read the case study." width="100%">
+  </picture>
+  </a>
+</p>
+
+<p>
+  <picture>
+    <source media="(max-width: 767px)" srcset="./assets/profile-tools-mobile.svg">
+    <img src="./assets/profile-tools.svg" alt="Code: Python, C#, Java, JavaScript, HTML and CSS. Visual and motion design: Adobe Photoshop and Adobe After Effects." width="100%">
+  </picture>
+</p>
+
+<p>
+  <a href="mailto:kucukcongarkagan@gmail.com">
+  <picture>
+    <source media="(max-width: 767px)" srcset="./assets/profile-contact-mobile.svg">
+    <img src="./assets/profile-contact.svg" alt="Get in touch: kucukcongarkagan@gmail.com. Open your email app." width="100%">
+  </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://kagankucukcongar.github.io/">
+  <picture>
+    <source media="(max-width: 767px)" srcset="./assets/profile-portfolio-mobile.svg">
+    <img src="./assets/profile-portfolio.svg" alt="Step into my room — explore the interactive portfolio." width="100%">
+  </picture>
+  </a>
+</p>
+
+<details>
+<summary>Text version &amp; links</summary>
 
 ## About me
 
@@ -56,3 +105,5 @@ TÜBİTAK Kayseri Bölge İkinciliği
 A question, an idea, or just a hello.
 
 [Email me](mailto:kucukcongarkagan@gmail.com) · [Visit my portfolio](https://kagankucukcongar.github.io/)
+
+</details>

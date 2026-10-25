@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="146" viewBox="0 0 1280 146" role="img" aria-labelledby="title">
+<title id="title">Step into my room. Explore the interactive portfolio at kagankucukcongar.github.io.</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16232a"/><stop offset="1" stop-color="#10171b"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="144" rx="18" fill="url(#bg)" stroke="#2c393f"/>
+<g font-family="'Segoe UI', Arial, sans-serif"><circle cx="65" cy="75" r="6" fill="#fff"/><text x="91" y="87" fill="#f1ede3" font-size="38" font-weight="750" letter-spacing="-.8">Step into my room.</text><text x="662" y="83" fill="#b8c4c9" font-size="20" font-weight="700" letter-spacing="2">THE INTERACTIVE PORTFOLIO</text><g fill="none" stroke="#e7c799" stroke-width="2.5" stroke-linecap="round"><circle cx="1179" cy="75" r="28" stroke="#5e665d"/><path d="m1172 82 14-14m-13 0h13v13"/></g></g>
+</svg>
